@@ -1,0 +1,44 @@
+{
+  "metrics": [],
+  "prediction_model": {
+    "type": "xgboost",
+    "target": "will_fail_24h",
+    "failure_threshold": 0.5,
+    "high_risk_threshold": 0.7,
+    "critical_risk_threshold": 0.9
+  },
+  "status_classification": {
+    "rules": [
+      {
+        "status": "Critical",
+        "color": "yellow",
+        "priority": 4,
+        "conditions": "failure_risk > 0.9"
+      },
+      {
+        "status": "Danger",
+        "color": "danger",
+        "priority": 3,
+        "conditions": "failure_risk > 0.7"
+      },
+      {
+        "status": "Warning",
+        "color": "warning",
+        "priority": 2,
+        "conditions": "failure_risk > 0.5"
+      },
+      {
+        "status": "Normal",
+        "color": "primary",
+        "priority": 1,
+        "conditions": "failure_risk <= 0.5"
+      }
+    ]
+  },
+  "dashboard": {
+    "refresh_interval_ms": 5000,
+    "show_all_metrics": true,
+    "show_failure_risk": true,
+    "enable_predictions": true
+  }
+}
