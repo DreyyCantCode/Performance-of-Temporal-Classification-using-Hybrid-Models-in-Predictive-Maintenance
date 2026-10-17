@@ -1,0 +1,77 @@
+﻿Month,Lab,Problem,Solution,Remarks
+Apr-24,Lab A,PCs not powering on (CMOS short),Clean motherboard and realign,Good
+Apr-24,Lab B,No BIOS display,Clean RAM contacts,Good
+Apr-24,Lab C,POST failure,Clean RAM contacts,Good
+Apr-24,Lab D,Screen flickering,Replace HDMI,Good
+May-24,Lab A,Preventive maintenance,,Good
+May-24,Lab B,Preventive maintenance,,Good
+May-24,Lab C,Preventive maintenance,,Good
+May-24,Lab D,Preventive maintenance,,Good
+Jun-24,Lab A,Slow performance missing drivers,Install drivers,Good
+Jun-24,Lab B,No issues,,Good
+Jun-24,Lab C,No issues,,Good
+Jun-24,Lab D,Keyboard/mouse failure,Replace peripherals,Good
+Jul-24,Lab A,No issues,,Good
+Jul-24,Lab B,Keyboard/mouse failure,Replace peripherals,Good
+Jul-24,Lab C,No issues,,Good
+Jul-24,Lab D,Keyboard/mouse failure,Replace peripherals,Good
+Aug-24,Lab A,Slow performance,Optimize system,Good
+Aug-24,Lab B,POST failure,Reseat RAM + CMOS reset,Good
+Aug-24,Lab C,No issues,,Good
+Aug-24,Lab D,Keyboard/mouse failure,Replace peripherals,Good
+Sep-24,Lab A,Slow performance,Optimize system,Good
+Sep-24,Lab B,Keyboard/mouse failure,Replace peripherals,Good
+Sep-24,Lab C,Screen flickering (LCD failure),Remove unit,Good
+Sep-24,Lab D,Screen flickering (LCD failure),Remove unit,Good
+Oct-24,Lab A,No issues,,Good
+Oct-24,Lab B,Power failure (AVR issue),Replace AVR,Good
+Oct-24,Lab C,Screen flickering (LCD failure),Remove unit,Good
+Oct-24,Lab D,Screen flickering (LCD failure),Remove unit,Good
+Nov-24,Lab A,Preventive maintenance,,Good
+Nov-24,Lab B,Preventive maintenance,,Good
+Nov-24,Lab C,Preventive maintenance,,Good
+Nov-24,Lab D,Preventive maintenance,,Good
+Dec-24,Lab A,No issues,,Good
+Dec-24,Lab B,No issues,,Good
+Dec-24,Lab C,No issues,,Good
+Dec-24,Lab D,No issues,,Good
+Jan-25,Lab A,POST failure,Reseat RAM + CMOS reset,Good
+Jan-25,Lab B,No issues,,Good
+Jan-25,Lab C,Screen flickering (LCD failure),Remove unit,Good
+Jan-25,Lab D,Motherboard failure,Replace unit,Good
+Feb-25,Lab A,No issues,,Good
+Feb-25,Lab B,No issues,,Good
+Feb-25,Lab C,Motherboard failure,Replace unit,Good
+Feb-25,Lab D,Motherboard failure,Replace unit,Good
+Mar-25,Lab A,OS boot failure,Reinstall OS,Good
+Mar-25,Lab B,No issues,,Good
+Mar-25,Lab C,Motherboard failure,Replace unit,Good
+Mar-25,Lab D,No issues,,Good
+Apr-25,Lab A,Aircon issue,Install and clean,Good
+Apr-25,Lab B,Aircon issue,Install and clean,Good
+Apr-25,Lab C,Aircon issue,Install and clean,Good
+Apr-25,Lab D,Aircon issue,Install and clean,Good
+May-25,Lab A,Preventive maintenance,,Good
+May-25,Lab B,Preventive maintenance,,Good
+May-25,Lab C,Preventive maintenance,,Good
+May-25,Lab D,Preventive maintenance,,Good
+Jun-25,Lab A,System upgrade (iMac),Deploy new units,Good
+Jun-25,Lab B,System upgrade (iMac),Deploy new units,Good
+Jun-25,Lab C,Display issues replaced units,Replace units,Good
+Jun-25,Lab D,Slow performance,Reinstall OS,Good
+Jul-25,Lab A,No issues,,Good
+Jul-25,Lab B,No issues,,Good
+Jul-25,Lab C,No issues,,Good
+Jul-25,Lab D,Keyboard/mouse failure,Replace peripherals,Good
+Aug-25,Lab A,No issues,,Good
+Aug-25,Lab B,No issues,,Good
+Aug-25,Lab C,No issues,,Good
+Aug-25,Lab D,No issues,,Good
+Sep-25,Lab A,No issues,,Good
+Sep-25,Lab B,No issues,,Good
+Sep-25,Lab C,No issues,,Good
+Sep-25,Lab D,No issues,,Good
+Oct-25,Lab A,No issues,,Good
+Oct-25,Lab B,No issues,,Good
+Oct-25,Lab C,No issues,,Good
+Oct-25,Lab D,Electrical short circuit,Schedule repair,Good

@@ -1,0 +1,8 @@
+Month,Lab,Problem,Solution,Component,Priority,AffectedUsers,ReportedBy,Status,Description,asset_id,asset_name,asset_location,asset_status,asset_shift_type,asset_uptime_hours,timestamp,metric_1,metric_2,metric_3,maintenance_label,matched_maintenance_type,matched_maintenance_status,matched_maintenance_date,will_fail_24h,HealthScore,PerformanceScore
+Apr-26,DemoLab,Demo fallback label 1,,,,0,,,,DEMO_ASSET_1,,,,,,2026-04-28T00:00:00,,,,0,,,,0,,
+Apr-26,DemoLab,Demo fallback label 2,,,,0,,,,DEMO_ASSET_2,,,,,,2026-04-27T00:00:00,,,,0,,,,0,,
+Apr-26,Lab B,Medium - PC - test - reported by test,Report Only,PC,Medium,10,test,Report Only,test,PC_05,PC 05,Lab D,inactive,am,10.0,2026-04-30T00:00:00,,,,0,,,,1,100.0,100.0
+Apr-26,Lab D,High - PC - needs monitoring - reported by test,Report Only,PC,High,15,test,Report Only,needs monitoring,PC_05,PC 05,Lab D,inactive,am,10.0,2026-04-30T00:00:00,,,,0,,,,1,65.0,70.0
+Apr-26,Lab A,Medium - PC - testas - reported by test,Completed,PC,Medium,15,test,Completed,testas,PC_04,PC 01,Lab A,maintenance,am,10.0,2026-04-29T00:00:00,,,,0,,,,1,24.0,80.0
+Apr-26,Lab A,Medium - PC - testas - reported by test,Completed,PC,Medium,15,test,Completed,testas,PC_04,PC 01,Lab A,maintenance,am,10.0,2026-04-29T00:00:00,,,,0,,,,1,24.0,80.0
+Apr-26,Lab A,Medium - PC - test - reported by Test,Completed,PC,Medium,15,Test,Completed,test,pc_03,,,,,,2026-04-29T00:00:00,,,,0,,,,1,50.0,70.0

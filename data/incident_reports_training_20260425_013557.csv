@@ -1,0 +1,7 @@
+Month,Lab,Problem,Solution,asset_id,timestamp,will_fail_24h
+Apr-26,Lab C,Low - test,,PC_02,2026-04-24T00:00:00,1
+Apr-26,Lab A,Critical - test,,PC_01,2026-04-24T00:00:00,1
+Apr-26,Lab A,Low - Needs replacement,,PC_01,2026-04-24T00:00:00,1
+Apr-26,Lab B,High - test,,PC_01,2026-04-24T00:00:00,1
+Apr-26,Lab B,High - test,,PC_01,2026-04-24T00:00:00,1
+Apr-26,Lab B,Medium - test,,PC_05,2026-04-23T00:00:00,1

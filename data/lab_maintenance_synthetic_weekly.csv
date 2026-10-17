@@ -1,0 +1,453 @@
+timestamp,lab_name,asset_id,source_month,source_problem,solution,remarks,will_fail_24h
+2024-04-01T00:00:00,Lab A,Lab_A,Apr-24,PCs not powering on (CMOS short),Clean motherboard and realign,Good,0
+2024-04-08T00:00:00,Lab A,Lab_A,Apr-24,PCs not powering on (CMOS short),Clean motherboard and realign,Good,0
+2024-04-15T00:00:00,Lab A,Lab_A,Apr-24,PCs not powering on (CMOS short),Clean motherboard and realign,Good,0
+2024-04-22T00:00:00,Lab A,Lab_A,Apr-24,PCs not powering on (CMOS short),Clean motherboard and realign,Good,1
+2024-04-29T00:00:00,Lab A,Lab_A,Apr-24,PCs not powering on (CMOS short),Clean motherboard and realign,Good,0
+2024-04-30T00:00:00,Lab A,Lab_A,Apr-24,PCs not powering on (CMOS short),Clean motherboard and realign,Good,0
+2024-05-01T00:00:00,Lab A,Lab_A,May-24,Preventive maintenance,,Good,0
+2024-05-08T00:00:00,Lab A,Lab_A,May-24,Preventive maintenance,,Good,0
+2024-05-15T00:00:00,Lab A,Lab_A,May-24,Preventive maintenance,,Good,0
+2024-05-22T00:00:00,Lab A,Lab_A,May-24,Preventive maintenance,,Good,0
+2024-05-29T00:00:00,Lab A,Lab_A,May-24,Preventive maintenance,,Good,0
+2024-05-31T00:00:00,Lab A,Lab_A,May-24,Preventive maintenance,,Good,0
+2024-06-01T00:00:00,Lab A,Lab_A,Jun-24,Slow performance missing drivers,Install drivers,Good,0
+2024-06-08T00:00:00,Lab A,Lab_A,Jun-24,Slow performance missing drivers,Install drivers,Good,0
+2024-06-15T00:00:00,Lab A,Lab_A,Jun-24,Slow performance missing drivers,Install drivers,Good,0
+2024-06-22T00:00:00,Lab A,Lab_A,Jun-24,Slow performance missing drivers,Install drivers,Good,0
+2024-06-29T00:00:00,Lab A,Lab_A,Jun-24,Slow performance missing drivers,Install drivers,Good,1
+2024-06-30T00:00:00,Lab A,Lab_A,Jun-24,Slow performance missing drivers,Install drivers,Good,0
+2024-07-01T00:00:00,Lab A,Lab_A,Jul-24,No issues,,Good,0
+2024-07-08T00:00:00,Lab A,Lab_A,Jul-24,No issues,,Good,0
+2024-07-15T00:00:00,Lab A,Lab_A,Jul-24,No issues,,Good,0
+2024-07-22T00:00:00,Lab A,Lab_A,Jul-24,No issues,,Good,0
+2024-07-29T00:00:00,Lab A,Lab_A,Jul-24,No issues,,Good,0
+2024-07-31T00:00:00,Lab A,Lab_A,Jul-24,No issues,,Good,0
+2024-08-01T00:00:00,Lab A,Lab_A,Aug-24,Slow performance,Optimize system,Good,0
+2024-08-08T00:00:00,Lab A,Lab_A,Aug-24,Slow performance,Optimize system,Good,0
+2024-08-15T00:00:00,Lab A,Lab_A,Aug-24,Slow performance,Optimize system,Good,0
+2024-08-22T00:00:00,Lab A,Lab_A,Aug-24,Slow performance,Optimize system,Good,1
+2024-08-29T00:00:00,Lab A,Lab_A,Aug-24,Slow performance,Optimize system,Good,0
+2024-08-31T00:00:00,Lab A,Lab_A,Aug-24,Slow performance,Optimize system,Good,0
+2024-09-01T00:00:00,Lab A,Lab_A,Sep-24,Slow performance,Optimize system,Good,0
+2024-09-08T00:00:00,Lab A,Lab_A,Sep-24,Slow performance,Optimize system,Good,0
+2024-09-15T00:00:00,Lab A,Lab_A,Sep-24,Slow performance,Optimize system,Good,0
+2024-09-22T00:00:00,Lab A,Lab_A,Sep-24,Slow performance,Optimize system,Good,1
+2024-09-29T00:00:00,Lab A,Lab_A,Sep-24,Slow performance,Optimize system,Good,0
+2024-09-30T00:00:00,Lab A,Lab_A,Sep-24,Slow performance,Optimize system,Good,0
+2024-10-01T00:00:00,Lab A,Lab_A,Oct-24,No issues,,Good,0
+2024-10-08T00:00:00,Lab A,Lab_A,Oct-24,No issues,,Good,0
+2024-10-15T00:00:00,Lab A,Lab_A,Oct-24,No issues,,Good,0
+2024-10-22T00:00:00,Lab A,Lab_A,Oct-24,No issues,,Good,0
+2024-10-29T00:00:00,Lab A,Lab_A,Oct-24,No issues,,Good,0
+2024-10-31T00:00:00,Lab A,Lab_A,Oct-24,No issues,,Good,0
+2024-11-01T00:00:00,Lab A,Lab_A,Nov-24,Preventive maintenance,,Good,0
+2024-11-08T00:00:00,Lab A,Lab_A,Nov-24,Preventive maintenance,,Good,0
+2024-11-15T00:00:00,Lab A,Lab_A,Nov-24,Preventive maintenance,,Good,0
+2024-11-22T00:00:00,Lab A,Lab_A,Nov-24,Preventive maintenance,,Good,0
+2024-11-29T00:00:00,Lab A,Lab_A,Nov-24,Preventive maintenance,,Good,0
+2024-11-30T00:00:00,Lab A,Lab_A,Nov-24,Preventive maintenance,,Good,0
+2024-12-01T00:00:00,Lab A,Lab_A,Dec-24,No issues,,Good,0
+2024-12-08T00:00:00,Lab A,Lab_A,Dec-24,No issues,,Good,0
+2024-12-15T00:00:00,Lab A,Lab_A,Dec-24,No issues,,Good,0
+2024-12-22T00:00:00,Lab A,Lab_A,Dec-24,No issues,,Good,0
+2024-12-29T00:00:00,Lab A,Lab_A,Dec-24,No issues,,Good,0
+2024-12-31T00:00:00,Lab A,Lab_A,Dec-24,No issues,,Good,0
+2025-01-01T00:00:00,Lab A,Lab_A,Jan-25,POST failure,Reseat RAM + CMOS reset,Good,0
+2025-01-08T00:00:00,Lab A,Lab_A,Jan-25,POST failure,Reseat RAM + CMOS reset,Good,0
+2025-01-15T00:00:00,Lab A,Lab_A,Jan-25,POST failure,Reseat RAM + CMOS reset,Good,0
+2025-01-22T00:00:00,Lab A,Lab_A,Jan-25,POST failure,Reseat RAM + CMOS reset,Good,1
+2025-01-29T00:00:00,Lab A,Lab_A,Jan-25,POST failure,Reseat RAM + CMOS reset,Good,0
+2025-01-31T00:00:00,Lab A,Lab_A,Jan-25,POST failure,Reseat RAM + CMOS reset,Good,0
+2025-02-01T00:00:00,Lab A,Lab_A,Feb-25,No issues,,Good,0
+2025-02-08T00:00:00,Lab A,Lab_A,Feb-25,No issues,,Good,0
+2025-02-15T00:00:00,Lab A,Lab_A,Feb-25,No issues,,Good,0
+2025-02-22T00:00:00,Lab A,Lab_A,Feb-25,No issues,,Good,0
+2025-02-28T00:00:00,Lab A,Lab_A,Feb-25,No issues,,Good,0
+2025-03-01T00:00:00,Lab A,Lab_A,Mar-25,OS boot failure,Reinstall OS,Good,0
+2025-03-08T00:00:00,Lab A,Lab_A,Mar-25,OS boot failure,Reinstall OS,Good,0
+2025-03-15T00:00:00,Lab A,Lab_A,Mar-25,OS boot failure,Reinstall OS,Good,0
+2025-03-22T00:00:00,Lab A,Lab_A,Mar-25,OS boot failure,Reinstall OS,Good,1
+2025-03-29T00:00:00,Lab A,Lab_A,Mar-25,OS boot failure,Reinstall OS,Good,0
+2025-03-31T00:00:00,Lab A,Lab_A,Mar-25,OS boot failure,Reinstall OS,Good,0
+2025-04-01T00:00:00,Lab A,Lab_A,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-08T00:00:00,Lab A,Lab_A,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-15T00:00:00,Lab A,Lab_A,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-22T00:00:00,Lab A,Lab_A,Apr-25,Aircon issue,Install and clean,Good,1
+2025-04-29T00:00:00,Lab A,Lab_A,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-30T00:00:00,Lab A,Lab_A,Apr-25,Aircon issue,Install and clean,Good,0
+2025-05-01T00:00:00,Lab A,Lab_A,May-25,Preventive maintenance,,Good,0
+2025-05-08T00:00:00,Lab A,Lab_A,May-25,Preventive maintenance,,Good,0
+2025-05-15T00:00:00,Lab A,Lab_A,May-25,Preventive maintenance,,Good,0
+2025-05-22T00:00:00,Lab A,Lab_A,May-25,Preventive maintenance,,Good,0
+2025-05-29T00:00:00,Lab A,Lab_A,May-25,Preventive maintenance,,Good,0
+2025-05-31T00:00:00,Lab A,Lab_A,May-25,Preventive maintenance,,Good,0
+2025-06-01T00:00:00,Lab A,Lab_A,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-08T00:00:00,Lab A,Lab_A,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-15T00:00:00,Lab A,Lab_A,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-22T00:00:00,Lab A,Lab_A,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-29T00:00:00,Lab A,Lab_A,Jun-25,System upgrade (iMac),Deploy new units,Good,1
+2025-06-30T00:00:00,Lab A,Lab_A,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-07-01T00:00:00,Lab A,Lab_A,Jul-25,No issues,,Good,0
+2025-07-08T00:00:00,Lab A,Lab_A,Jul-25,No issues,,Good,0
+2025-07-15T00:00:00,Lab A,Lab_A,Jul-25,No issues,,Good,0
+2025-07-22T00:00:00,Lab A,Lab_A,Jul-25,No issues,,Good,0
+2025-07-29T00:00:00,Lab A,Lab_A,Jul-25,No issues,,Good,0
+2025-07-31T00:00:00,Lab A,Lab_A,Jul-25,No issues,,Good,0
+2025-08-01T00:00:00,Lab A,Lab_A,Aug-25,No issues,,Good,0
+2025-08-08T00:00:00,Lab A,Lab_A,Aug-25,No issues,,Good,0
+2025-08-15T00:00:00,Lab A,Lab_A,Aug-25,No issues,,Good,0
+2025-08-22T00:00:00,Lab A,Lab_A,Aug-25,No issues,,Good,0
+2025-08-29T00:00:00,Lab A,Lab_A,Aug-25,No issues,,Good,0
+2025-08-31T00:00:00,Lab A,Lab_A,Aug-25,No issues,,Good,0
+2025-09-01T00:00:00,Lab A,Lab_A,Sep-25,No issues,,Good,0
+2025-09-08T00:00:00,Lab A,Lab_A,Sep-25,No issues,,Good,0
+2025-09-15T00:00:00,Lab A,Lab_A,Sep-25,No issues,,Good,0
+2025-09-22T00:00:00,Lab A,Lab_A,Sep-25,No issues,,Good,0
+2025-09-29T00:00:00,Lab A,Lab_A,Sep-25,No issues,,Good,0
+2025-09-30T00:00:00,Lab A,Lab_A,Sep-25,No issues,,Good,0
+2025-10-01T00:00:00,Lab A,Lab_A,Oct-25,No issues,,Good,0
+2025-10-08T00:00:00,Lab A,Lab_A,Oct-25,No issues,,Good,0
+2025-10-15T00:00:00,Lab A,Lab_A,Oct-25,No issues,,Good,0
+2025-10-22T00:00:00,Lab A,Lab_A,Oct-25,No issues,,Good,0
+2025-10-29T00:00:00,Lab A,Lab_A,Oct-25,No issues,,Good,0
+2025-10-31T00:00:00,Lab A,Lab_A,Oct-25,No issues,,Good,0
+2024-04-01T00:00:00,Lab B,Lab_B,Apr-24,No BIOS display,Clean RAM contacts,Good,0
+2024-04-08T00:00:00,Lab B,Lab_B,Apr-24,No BIOS display,Clean RAM contacts,Good,0
+2024-04-15T00:00:00,Lab B,Lab_B,Apr-24,No BIOS display,Clean RAM contacts,Good,0
+2024-04-22T00:00:00,Lab B,Lab_B,Apr-24,No BIOS display,Clean RAM contacts,Good,0
+2024-04-29T00:00:00,Lab B,Lab_B,Apr-24,No BIOS display,Clean RAM contacts,Good,1
+2024-04-30T00:00:00,Lab B,Lab_B,Apr-24,No BIOS display,Clean RAM contacts,Good,0
+2024-05-01T00:00:00,Lab B,Lab_B,May-24,Preventive maintenance,,Good,0
+2024-05-08T00:00:00,Lab B,Lab_B,May-24,Preventive maintenance,,Good,0
+2024-05-15T00:00:00,Lab B,Lab_B,May-24,Preventive maintenance,,Good,0
+2024-05-22T00:00:00,Lab B,Lab_B,May-24,Preventive maintenance,,Good,0
+2024-05-29T00:00:00,Lab B,Lab_B,May-24,Preventive maintenance,,Good,0
+2024-05-31T00:00:00,Lab B,Lab_B,May-24,Preventive maintenance,,Good,0
+2024-06-01T00:00:00,Lab B,Lab_B,Jun-24,No issues,,Good,0
+2024-06-08T00:00:00,Lab B,Lab_B,Jun-24,No issues,,Good,0
+2024-06-15T00:00:00,Lab B,Lab_B,Jun-24,No issues,,Good,0
+2024-06-22T00:00:00,Lab B,Lab_B,Jun-24,No issues,,Good,0
+2024-06-29T00:00:00,Lab B,Lab_B,Jun-24,No issues,,Good,0
+2024-06-30T00:00:00,Lab B,Lab_B,Jun-24,No issues,,Good,0
+2024-07-01T00:00:00,Lab B,Lab_B,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-08T00:00:00,Lab B,Lab_B,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-15T00:00:00,Lab B,Lab_B,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-22T00:00:00,Lab B,Lab_B,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-29T00:00:00,Lab B,Lab_B,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,1
+2024-07-31T00:00:00,Lab B,Lab_B,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-08-01T00:00:00,Lab B,Lab_B,Aug-24,POST failure,Reseat RAM + CMOS reset,Good,0
+2024-08-08T00:00:00,Lab B,Lab_B,Aug-24,POST failure,Reseat RAM + CMOS reset,Good,0
+2024-08-15T00:00:00,Lab B,Lab_B,Aug-24,POST failure,Reseat RAM + CMOS reset,Good,0
+2024-08-22T00:00:00,Lab B,Lab_B,Aug-24,POST failure,Reseat RAM + CMOS reset,Good,1
+2024-08-29T00:00:00,Lab B,Lab_B,Aug-24,POST failure,Reseat RAM + CMOS reset,Good,0
+2024-08-31T00:00:00,Lab B,Lab_B,Aug-24,POST failure,Reseat RAM + CMOS reset,Good,0
+2024-09-01T00:00:00,Lab B,Lab_B,Sep-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-09-08T00:00:00,Lab B,Lab_B,Sep-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-09-15T00:00:00,Lab B,Lab_B,Sep-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-09-22T00:00:00,Lab B,Lab_B,Sep-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-09-29T00:00:00,Lab B,Lab_B,Sep-24,Keyboard/mouse failure,Replace peripherals,Good,1
+2024-09-30T00:00:00,Lab B,Lab_B,Sep-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-10-01T00:00:00,Lab B,Lab_B,Oct-24,Power failure (AVR issue),Replace AVR,Good,0
+2024-10-08T00:00:00,Lab B,Lab_B,Oct-24,Power failure (AVR issue),Replace AVR,Good,0
+2024-10-15T00:00:00,Lab B,Lab_B,Oct-24,Power failure (AVR issue),Replace AVR,Good,0
+2024-10-22T00:00:00,Lab B,Lab_B,Oct-24,Power failure (AVR issue),Replace AVR,Good,0
+2024-10-29T00:00:00,Lab B,Lab_B,Oct-24,Power failure (AVR issue),Replace AVR,Good,1
+2024-10-31T00:00:00,Lab B,Lab_B,Oct-24,Power failure (AVR issue),Replace AVR,Good,0
+2024-11-01T00:00:00,Lab B,Lab_B,Nov-24,Preventive maintenance,,Good,0
+2024-11-08T00:00:00,Lab B,Lab_B,Nov-24,Preventive maintenance,,Good,0
+2024-11-15T00:00:00,Lab B,Lab_B,Nov-24,Preventive maintenance,,Good,0
+2024-11-22T00:00:00,Lab B,Lab_B,Nov-24,Preventive maintenance,,Good,0
+2024-11-29T00:00:00,Lab B,Lab_B,Nov-24,Preventive maintenance,,Good,0
+2024-11-30T00:00:00,Lab B,Lab_B,Nov-24,Preventive maintenance,,Good,0
+2024-12-01T00:00:00,Lab B,Lab_B,Dec-24,No issues,,Good,0
+2024-12-08T00:00:00,Lab B,Lab_B,Dec-24,No issues,,Good,0
+2024-12-15T00:00:00,Lab B,Lab_B,Dec-24,No issues,,Good,0
+2024-12-22T00:00:00,Lab B,Lab_B,Dec-24,No issues,,Good,0
+2024-12-29T00:00:00,Lab B,Lab_B,Dec-24,No issues,,Good,0
+2024-12-31T00:00:00,Lab B,Lab_B,Dec-24,No issues,,Good,0
+2025-01-01T00:00:00,Lab B,Lab_B,Jan-25,No issues,,Good,0
+2025-01-08T00:00:00,Lab B,Lab_B,Jan-25,No issues,,Good,0
+2025-01-15T00:00:00,Lab B,Lab_B,Jan-25,No issues,,Good,0
+2025-01-22T00:00:00,Lab B,Lab_B,Jan-25,No issues,,Good,0
+2025-01-29T00:00:00,Lab B,Lab_B,Jan-25,No issues,,Good,0
+2025-01-31T00:00:00,Lab B,Lab_B,Jan-25,No issues,,Good,0
+2025-02-01T00:00:00,Lab B,Lab_B,Feb-25,No issues,,Good,0
+2025-02-08T00:00:00,Lab B,Lab_B,Feb-25,No issues,,Good,0
+2025-02-15T00:00:00,Lab B,Lab_B,Feb-25,No issues,,Good,0
+2025-02-22T00:00:00,Lab B,Lab_B,Feb-25,No issues,,Good,0
+2025-02-28T00:00:00,Lab B,Lab_B,Feb-25,No issues,,Good,0
+2025-03-01T00:00:00,Lab B,Lab_B,Mar-25,No issues,,Good,0
+2025-03-08T00:00:00,Lab B,Lab_B,Mar-25,No issues,,Good,0
+2025-03-15T00:00:00,Lab B,Lab_B,Mar-25,No issues,,Good,0
+2025-03-22T00:00:00,Lab B,Lab_B,Mar-25,No issues,,Good,0
+2025-03-29T00:00:00,Lab B,Lab_B,Mar-25,No issues,,Good,0
+2025-03-31T00:00:00,Lab B,Lab_B,Mar-25,No issues,,Good,0
+2025-04-01T00:00:00,Lab B,Lab_B,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-08T00:00:00,Lab B,Lab_B,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-15T00:00:00,Lab B,Lab_B,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-22T00:00:00,Lab B,Lab_B,Apr-25,Aircon issue,Install and clean,Good,1
+2025-04-29T00:00:00,Lab B,Lab_B,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-30T00:00:00,Lab B,Lab_B,Apr-25,Aircon issue,Install and clean,Good,0
+2025-05-01T00:00:00,Lab B,Lab_B,May-25,Preventive maintenance,,Good,0
+2025-05-08T00:00:00,Lab B,Lab_B,May-25,Preventive maintenance,,Good,0
+2025-05-15T00:00:00,Lab B,Lab_B,May-25,Preventive maintenance,,Good,0
+2025-05-22T00:00:00,Lab B,Lab_B,May-25,Preventive maintenance,,Good,0
+2025-05-29T00:00:00,Lab B,Lab_B,May-25,Preventive maintenance,,Good,0
+2025-05-31T00:00:00,Lab B,Lab_B,May-25,Preventive maintenance,,Good,0
+2025-06-01T00:00:00,Lab B,Lab_B,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-08T00:00:00,Lab B,Lab_B,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-15T00:00:00,Lab B,Lab_B,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-22T00:00:00,Lab B,Lab_B,Jun-25,System upgrade (iMac),Deploy new units,Good,1
+2025-06-29T00:00:00,Lab B,Lab_B,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-06-30T00:00:00,Lab B,Lab_B,Jun-25,System upgrade (iMac),Deploy new units,Good,0
+2025-07-01T00:00:00,Lab B,Lab_B,Jul-25,No issues,,Good,0
+2025-07-08T00:00:00,Lab B,Lab_B,Jul-25,No issues,,Good,0
+2025-07-15T00:00:00,Lab B,Lab_B,Jul-25,No issues,,Good,0
+2025-07-22T00:00:00,Lab B,Lab_B,Jul-25,No issues,,Good,0
+2025-07-29T00:00:00,Lab B,Lab_B,Jul-25,No issues,,Good,0
+2025-07-31T00:00:00,Lab B,Lab_B,Jul-25,No issues,,Good,0
+2025-08-01T00:00:00,Lab B,Lab_B,Aug-25,No issues,,Good,0
+2025-08-08T00:00:00,Lab B,Lab_B,Aug-25,No issues,,Good,0
+2025-08-15T00:00:00,Lab B,Lab_B,Aug-25,No issues,,Good,0
+2025-08-22T00:00:00,Lab B,Lab_B,Aug-25,No issues,,Good,0
+2025-08-29T00:00:00,Lab B,Lab_B,Aug-25,No issues,,Good,0
+2025-08-31T00:00:00,Lab B,Lab_B,Aug-25,No issues,,Good,0
+2025-09-01T00:00:00,Lab B,Lab_B,Sep-25,No issues,,Good,0
+2025-09-08T00:00:00,Lab B,Lab_B,Sep-25,No issues,,Good,0
+2025-09-15T00:00:00,Lab B,Lab_B,Sep-25,No issues,,Good,0
+2025-09-22T00:00:00,Lab B,Lab_B,Sep-25,No issues,,Good,0
+2025-09-29T00:00:00,Lab B,Lab_B,Sep-25,No issues,,Good,0
+2025-09-30T00:00:00,Lab B,Lab_B,Sep-25,No issues,,Good,0
+2025-10-01T00:00:00,Lab B,Lab_B,Oct-25,No issues,,Good,0
+2025-10-08T00:00:00,Lab B,Lab_B,Oct-25,No issues,,Good,0
+2025-10-15T00:00:00,Lab B,Lab_B,Oct-25,No issues,,Good,0
+2025-10-22T00:00:00,Lab B,Lab_B,Oct-25,No issues,,Good,0
+2025-10-29T00:00:00,Lab B,Lab_B,Oct-25,No issues,,Good,0
+2025-10-31T00:00:00,Lab B,Lab_B,Oct-25,No issues,,Good,0
+2024-04-01T00:00:00,Lab C,Lab_C,Apr-24,POST failure,Clean RAM contacts,Good,0
+2024-04-08T00:00:00,Lab C,Lab_C,Apr-24,POST failure,Clean RAM contacts,Good,0
+2024-04-15T00:00:00,Lab C,Lab_C,Apr-24,POST failure,Clean RAM contacts,Good,0
+2024-04-22T00:00:00,Lab C,Lab_C,Apr-24,POST failure,Clean RAM contacts,Good,1
+2024-04-29T00:00:00,Lab C,Lab_C,Apr-24,POST failure,Clean RAM contacts,Good,0
+2024-04-30T00:00:00,Lab C,Lab_C,Apr-24,POST failure,Clean RAM contacts,Good,0
+2024-05-01T00:00:00,Lab C,Lab_C,May-24,Preventive maintenance,,Good,0
+2024-05-08T00:00:00,Lab C,Lab_C,May-24,Preventive maintenance,,Good,0
+2024-05-15T00:00:00,Lab C,Lab_C,May-24,Preventive maintenance,,Good,0
+2024-05-22T00:00:00,Lab C,Lab_C,May-24,Preventive maintenance,,Good,0
+2024-05-29T00:00:00,Lab C,Lab_C,May-24,Preventive maintenance,,Good,0
+2024-05-31T00:00:00,Lab C,Lab_C,May-24,Preventive maintenance,,Good,0
+2024-06-01T00:00:00,Lab C,Lab_C,Jun-24,No issues,,Good,0
+2024-06-08T00:00:00,Lab C,Lab_C,Jun-24,No issues,,Good,0
+2024-06-15T00:00:00,Lab C,Lab_C,Jun-24,No issues,,Good,0
+2024-06-22T00:00:00,Lab C,Lab_C,Jun-24,No issues,,Good,0
+2024-06-29T00:00:00,Lab C,Lab_C,Jun-24,No issues,,Good,0
+2024-06-30T00:00:00,Lab C,Lab_C,Jun-24,No issues,,Good,0
+2024-07-01T00:00:00,Lab C,Lab_C,Jul-24,No issues,,Good,0
+2024-07-08T00:00:00,Lab C,Lab_C,Jul-24,No issues,,Good,0
+2024-07-15T00:00:00,Lab C,Lab_C,Jul-24,No issues,,Good,0
+2024-07-22T00:00:00,Lab C,Lab_C,Jul-24,No issues,,Good,0
+2024-07-29T00:00:00,Lab C,Lab_C,Jul-24,No issues,,Good,0
+2024-07-31T00:00:00,Lab C,Lab_C,Jul-24,No issues,,Good,0
+2024-08-01T00:00:00,Lab C,Lab_C,Aug-24,No issues,,Good,0
+2024-08-08T00:00:00,Lab C,Lab_C,Aug-24,No issues,,Good,0
+2024-08-15T00:00:00,Lab C,Lab_C,Aug-24,No issues,,Good,0
+2024-08-22T00:00:00,Lab C,Lab_C,Aug-24,No issues,,Good,0
+2024-08-29T00:00:00,Lab C,Lab_C,Aug-24,No issues,,Good,0
+2024-08-31T00:00:00,Lab C,Lab_C,Aug-24,No issues,,Good,0
+2024-09-01T00:00:00,Lab C,Lab_C,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-08T00:00:00,Lab C,Lab_C,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-15T00:00:00,Lab C,Lab_C,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-22T00:00:00,Lab C,Lab_C,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-29T00:00:00,Lab C,Lab_C,Sep-24,Screen flickering (LCD failure),Remove unit,Good,1
+2024-09-30T00:00:00,Lab C,Lab_C,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-01T00:00:00,Lab C,Lab_C,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-08T00:00:00,Lab C,Lab_C,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-15T00:00:00,Lab C,Lab_C,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-22T00:00:00,Lab C,Lab_C,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-29T00:00:00,Lab C,Lab_C,Oct-24,Screen flickering (LCD failure),Remove unit,Good,1
+2024-10-31T00:00:00,Lab C,Lab_C,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-11-01T00:00:00,Lab C,Lab_C,Nov-24,Preventive maintenance,,Good,0
+2024-11-08T00:00:00,Lab C,Lab_C,Nov-24,Preventive maintenance,,Good,0
+2024-11-15T00:00:00,Lab C,Lab_C,Nov-24,Preventive maintenance,,Good,0
+2024-11-22T00:00:00,Lab C,Lab_C,Nov-24,Preventive maintenance,,Good,0
+2024-11-29T00:00:00,Lab C,Lab_C,Nov-24,Preventive maintenance,,Good,0
+2024-11-30T00:00:00,Lab C,Lab_C,Nov-24,Preventive maintenance,,Good,0
+2024-12-01T00:00:00,Lab C,Lab_C,Dec-24,No issues,,Good,0
+2024-12-08T00:00:00,Lab C,Lab_C,Dec-24,No issues,,Good,0
+2024-12-15T00:00:00,Lab C,Lab_C,Dec-24,No issues,,Good,0
+2024-12-22T00:00:00,Lab C,Lab_C,Dec-24,No issues,,Good,0
+2024-12-29T00:00:00,Lab C,Lab_C,Dec-24,No issues,,Good,0
+2024-12-31T00:00:00,Lab C,Lab_C,Dec-24,No issues,,Good,0
+2025-01-01T00:00:00,Lab C,Lab_C,Jan-25,Screen flickering (LCD failure),Remove unit,Good,0
+2025-01-08T00:00:00,Lab C,Lab_C,Jan-25,Screen flickering (LCD failure),Remove unit,Good,0
+2025-01-15T00:00:00,Lab C,Lab_C,Jan-25,Screen flickering (LCD failure),Remove unit,Good,0
+2025-01-22T00:00:00,Lab C,Lab_C,Jan-25,Screen flickering (LCD failure),Remove unit,Good,1
+2025-01-29T00:00:00,Lab C,Lab_C,Jan-25,Screen flickering (LCD failure),Remove unit,Good,0
+2025-01-31T00:00:00,Lab C,Lab_C,Jan-25,Screen flickering (LCD failure),Remove unit,Good,0
+2025-02-01T00:00:00,Lab C,Lab_C,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-02-08T00:00:00,Lab C,Lab_C,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-02-15T00:00:00,Lab C,Lab_C,Feb-25,Motherboard failure,Replace unit,Good,1
+2025-02-22T00:00:00,Lab C,Lab_C,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-02-28T00:00:00,Lab C,Lab_C,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-03-01T00:00:00,Lab C,Lab_C,Mar-25,Motherboard failure,Replace unit,Good,0
+2025-03-08T00:00:00,Lab C,Lab_C,Mar-25,Motherboard failure,Replace unit,Good,0
+2025-03-15T00:00:00,Lab C,Lab_C,Mar-25,Motherboard failure,Replace unit,Good,0
+2025-03-22T00:00:00,Lab C,Lab_C,Mar-25,Motherboard failure,Replace unit,Good,1
+2025-03-29T00:00:00,Lab C,Lab_C,Mar-25,Motherboard failure,Replace unit,Good,0
+2025-03-31T00:00:00,Lab C,Lab_C,Mar-25,Motherboard failure,Replace unit,Good,0
+2025-04-01T00:00:00,Lab C,Lab_C,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-08T00:00:00,Lab C,Lab_C,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-15T00:00:00,Lab C,Lab_C,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-22T00:00:00,Lab C,Lab_C,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-29T00:00:00,Lab C,Lab_C,Apr-25,Aircon issue,Install and clean,Good,1
+2025-04-30T00:00:00,Lab C,Lab_C,Apr-25,Aircon issue,Install and clean,Good,0
+2025-05-01T00:00:00,Lab C,Lab_C,May-25,Preventive maintenance,,Good,0
+2025-05-08T00:00:00,Lab C,Lab_C,May-25,Preventive maintenance,,Good,0
+2025-05-15T00:00:00,Lab C,Lab_C,May-25,Preventive maintenance,,Good,0
+2025-05-22T00:00:00,Lab C,Lab_C,May-25,Preventive maintenance,,Good,0
+2025-05-29T00:00:00,Lab C,Lab_C,May-25,Preventive maintenance,,Good,0
+2025-05-31T00:00:00,Lab C,Lab_C,May-25,Preventive maintenance,,Good,0
+2025-06-01T00:00:00,Lab C,Lab_C,Jun-25,Display issues replaced units,Replace units,Good,0
+2025-06-08T00:00:00,Lab C,Lab_C,Jun-25,Display issues replaced units,Replace units,Good,0
+2025-06-15T00:00:00,Lab C,Lab_C,Jun-25,Display issues replaced units,Replace units,Good,0
+2025-06-22T00:00:00,Lab C,Lab_C,Jun-25,Display issues replaced units,Replace units,Good,0
+2025-06-29T00:00:00,Lab C,Lab_C,Jun-25,Display issues replaced units,Replace units,Good,1
+2025-06-30T00:00:00,Lab C,Lab_C,Jun-25,Display issues replaced units,Replace units,Good,0
+2025-07-01T00:00:00,Lab C,Lab_C,Jul-25,No issues,,Good,0
+2025-07-08T00:00:00,Lab C,Lab_C,Jul-25,No issues,,Good,0
+2025-07-15T00:00:00,Lab C,Lab_C,Jul-25,No issues,,Good,0
+2025-07-22T00:00:00,Lab C,Lab_C,Jul-25,No issues,,Good,0
+2025-07-29T00:00:00,Lab C,Lab_C,Jul-25,No issues,,Good,0
+2025-07-31T00:00:00,Lab C,Lab_C,Jul-25,No issues,,Good,0
+2025-08-01T00:00:00,Lab C,Lab_C,Aug-25,No issues,,Good,0
+2025-08-08T00:00:00,Lab C,Lab_C,Aug-25,No issues,,Good,0
+2025-08-15T00:00:00,Lab C,Lab_C,Aug-25,No issues,,Good,0
+2025-08-22T00:00:00,Lab C,Lab_C,Aug-25,No issues,,Good,0
+2025-08-29T00:00:00,Lab C,Lab_C,Aug-25,No issues,,Good,0
+2025-08-31T00:00:00,Lab C,Lab_C,Aug-25,No issues,,Good,0
+2025-09-01T00:00:00,Lab C,Lab_C,Sep-25,No issues,,Good,0
+2025-09-08T00:00:00,Lab C,Lab_C,Sep-25,No issues,,Good,0
+2025-09-15T00:00:00,Lab C,Lab_C,Sep-25,No issues,,Good,0
+2025-09-22T00:00:00,Lab C,Lab_C,Sep-25,No issues,,Good,0
+2025-09-29T00:00:00,Lab C,Lab_C,Sep-25,No issues,,Good,0
+2025-09-30T00:00:00,Lab C,Lab_C,Sep-25,No issues,,Good,0
+2025-10-01T00:00:00,Lab C,Lab_C,Oct-25,No issues,,Good,0
+2025-10-08T00:00:00,Lab C,Lab_C,Oct-25,No issues,,Good,0
+2025-10-15T00:00:00,Lab C,Lab_C,Oct-25,No issues,,Good,0
+2025-10-22T00:00:00,Lab C,Lab_C,Oct-25,No issues,,Good,0
+2025-10-29T00:00:00,Lab C,Lab_C,Oct-25,No issues,,Good,0
+2025-10-31T00:00:00,Lab C,Lab_C,Oct-25,No issues,,Good,0
+2024-04-01T00:00:00,Lab D,Lab_D,Apr-24,Screen flickering,Replace HDMI,Good,0
+2024-04-08T00:00:00,Lab D,Lab_D,Apr-24,Screen flickering,Replace HDMI,Good,0
+2024-04-15T00:00:00,Lab D,Lab_D,Apr-24,Screen flickering,Replace HDMI,Good,0
+2024-04-22T00:00:00,Lab D,Lab_D,Apr-24,Screen flickering,Replace HDMI,Good,0
+2024-04-29T00:00:00,Lab D,Lab_D,Apr-24,Screen flickering,Replace HDMI,Good,1
+2024-04-30T00:00:00,Lab D,Lab_D,Apr-24,Screen flickering,Replace HDMI,Good,0
+2024-05-01T00:00:00,Lab D,Lab_D,May-24,Preventive maintenance,,Good,0
+2024-05-08T00:00:00,Lab D,Lab_D,May-24,Preventive maintenance,,Good,0
+2024-05-15T00:00:00,Lab D,Lab_D,May-24,Preventive maintenance,,Good,0
+2024-05-22T00:00:00,Lab D,Lab_D,May-24,Preventive maintenance,,Good,0
+2024-05-29T00:00:00,Lab D,Lab_D,May-24,Preventive maintenance,,Good,0
+2024-05-31T00:00:00,Lab D,Lab_D,May-24,Preventive maintenance,,Good,0
+2024-06-01T00:00:00,Lab D,Lab_D,Jun-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-06-08T00:00:00,Lab D,Lab_D,Jun-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-06-15T00:00:00,Lab D,Lab_D,Jun-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-06-22T00:00:00,Lab D,Lab_D,Jun-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-06-29T00:00:00,Lab D,Lab_D,Jun-24,Keyboard/mouse failure,Replace peripherals,Good,1
+2024-06-30T00:00:00,Lab D,Lab_D,Jun-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-01T00:00:00,Lab D,Lab_D,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-08T00:00:00,Lab D,Lab_D,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-15T00:00:00,Lab D,Lab_D,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-22T00:00:00,Lab D,Lab_D,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-07-29T00:00:00,Lab D,Lab_D,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,1
+2024-07-31T00:00:00,Lab D,Lab_D,Jul-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-08-01T00:00:00,Lab D,Lab_D,Aug-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-08-08T00:00:00,Lab D,Lab_D,Aug-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-08-15T00:00:00,Lab D,Lab_D,Aug-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-08-22T00:00:00,Lab D,Lab_D,Aug-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-08-29T00:00:00,Lab D,Lab_D,Aug-24,Keyboard/mouse failure,Replace peripherals,Good,1
+2024-08-31T00:00:00,Lab D,Lab_D,Aug-24,Keyboard/mouse failure,Replace peripherals,Good,0
+2024-09-01T00:00:00,Lab D,Lab_D,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-08T00:00:00,Lab D,Lab_D,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-15T00:00:00,Lab D,Lab_D,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-22T00:00:00,Lab D,Lab_D,Sep-24,Screen flickering (LCD failure),Remove unit,Good,1
+2024-09-29T00:00:00,Lab D,Lab_D,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-09-30T00:00:00,Lab D,Lab_D,Sep-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-01T00:00:00,Lab D,Lab_D,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-08T00:00:00,Lab D,Lab_D,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-15T00:00:00,Lab D,Lab_D,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-22T00:00:00,Lab D,Lab_D,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-10-29T00:00:00,Lab D,Lab_D,Oct-24,Screen flickering (LCD failure),Remove unit,Good,1
+2024-10-31T00:00:00,Lab D,Lab_D,Oct-24,Screen flickering (LCD failure),Remove unit,Good,0
+2024-11-01T00:00:00,Lab D,Lab_D,Nov-24,Preventive maintenance,,Good,0
+2024-11-08T00:00:00,Lab D,Lab_D,Nov-24,Preventive maintenance,,Good,0
+2024-11-15T00:00:00,Lab D,Lab_D,Nov-24,Preventive maintenance,,Good,0
+2024-11-22T00:00:00,Lab D,Lab_D,Nov-24,Preventive maintenance,,Good,0
+2024-11-29T00:00:00,Lab D,Lab_D,Nov-24,Preventive maintenance,,Good,0
+2024-11-30T00:00:00,Lab D,Lab_D,Nov-24,Preventive maintenance,,Good,0
+2024-12-01T00:00:00,Lab D,Lab_D,Dec-24,No issues,,Good,0
+2024-12-08T00:00:00,Lab D,Lab_D,Dec-24,No issues,,Good,0
+2024-12-15T00:00:00,Lab D,Lab_D,Dec-24,No issues,,Good,0
+2024-12-22T00:00:00,Lab D,Lab_D,Dec-24,No issues,,Good,0
+2024-12-29T00:00:00,Lab D,Lab_D,Dec-24,No issues,,Good,0
+2024-12-31T00:00:00,Lab D,Lab_D,Dec-24,No issues,,Good,0
+2025-01-01T00:00:00,Lab D,Lab_D,Jan-25,Motherboard failure,Replace unit,Good,0
+2025-01-08T00:00:00,Lab D,Lab_D,Jan-25,Motherboard failure,Replace unit,Good,0
+2025-01-15T00:00:00,Lab D,Lab_D,Jan-25,Motherboard failure,Replace unit,Good,0
+2025-01-22T00:00:00,Lab D,Lab_D,Jan-25,Motherboard failure,Replace unit,Good,0
+2025-01-29T00:00:00,Lab D,Lab_D,Jan-25,Motherboard failure,Replace unit,Good,1
+2025-01-31T00:00:00,Lab D,Lab_D,Jan-25,Motherboard failure,Replace unit,Good,0
+2025-02-01T00:00:00,Lab D,Lab_D,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-02-08T00:00:00,Lab D,Lab_D,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-02-15T00:00:00,Lab D,Lab_D,Feb-25,Motherboard failure,Replace unit,Good,1
+2025-02-22T00:00:00,Lab D,Lab_D,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-02-28T00:00:00,Lab D,Lab_D,Feb-25,Motherboard failure,Replace unit,Good,0
+2025-03-01T00:00:00,Lab D,Lab_D,Mar-25,No issues,,Good,0
+2025-03-08T00:00:00,Lab D,Lab_D,Mar-25,No issues,,Good,0
+2025-03-15T00:00:00,Lab D,Lab_D,Mar-25,No issues,,Good,0
+2025-03-22T00:00:00,Lab D,Lab_D,Mar-25,No issues,,Good,0
+2025-03-29T00:00:00,Lab D,Lab_D,Mar-25,No issues,,Good,0
+2025-03-31T00:00:00,Lab D,Lab_D,Mar-25,No issues,,Good,0
+2025-04-01T00:00:00,Lab D,Lab_D,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-08T00:00:00,Lab D,Lab_D,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-15T00:00:00,Lab D,Lab_D,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-22T00:00:00,Lab D,Lab_D,Apr-25,Aircon issue,Install and clean,Good,0
+2025-04-29T00:00:00,Lab D,Lab_D,Apr-25,Aircon issue,Install and clean,Good,1
+2025-04-30T00:00:00,Lab D,Lab_D,Apr-25,Aircon issue,Install and clean,Good,0
+2025-05-01T00:00:00,Lab D,Lab_D,May-25,Preventive maintenance,,Good,0
+2025-05-08T00:00:00,Lab D,Lab_D,May-25,Preventive maintenance,,Good,0
+2025-05-15T00:00:00,Lab D,Lab_D,May-25,Preventive maintenance,,Good,0
+2025-05-22T00:00:00,Lab D,Lab_D,May-25,Preventive maintenance,,Good,0
+2025-05-29T00:00:00,Lab D,Lab_D,May-25,Preventive maintenance,,Good,0
+2025-05-31T00:00:00,Lab D,Lab_D,May-25,Preventive maintenance,,Good,0
+2025-06-01T00:00:00,Lab D,Lab_D,Jun-25,Slow performance,Reinstall OS,Good,0
+2025-06-08T00:00:00,Lab D,Lab_D,Jun-25,Slow performance,Reinstall OS,Good,0
+2025-06-15T00:00:00,Lab D,Lab_D,Jun-25,Slow performance,Reinstall OS,Good,0
+2025-06-22T00:00:00,Lab D,Lab_D,Jun-25,Slow performance,Reinstall OS,Good,1
+2025-06-29T00:00:00,Lab D,Lab_D,Jun-25,Slow performance,Reinstall OS,Good,0
+2025-06-30T00:00:00,Lab D,Lab_D,Jun-25,Slow performance,Reinstall OS,Good,0
+2025-07-01T00:00:00,Lab D,Lab_D,Jul-25,Keyboard/mouse failure,Replace peripherals,Good,0
+2025-07-08T00:00:00,Lab D,Lab_D,Jul-25,Keyboard/mouse failure,Replace peripherals,Good,0
+2025-07-15T00:00:00,Lab D,Lab_D,Jul-25,Keyboard/mouse failure,Replace peripherals,Good,0
+2025-07-22T00:00:00,Lab D,Lab_D,Jul-25,Keyboard/mouse failure,Replace peripherals,Good,1
+2025-07-29T00:00:00,Lab D,Lab_D,Jul-25,Keyboard/mouse failure,Replace peripherals,Good,0
+2025-07-31T00:00:00,Lab D,Lab_D,Jul-25,Keyboard/mouse failure,Replace peripherals,Good,0
+2025-08-01T00:00:00,Lab D,Lab_D,Aug-25,No issues,,Good,0
+2025-08-08T00:00:00,Lab D,Lab_D,Aug-25,No issues,,Good,0
+2025-08-15T00:00:00,Lab D,Lab_D,Aug-25,No issues,,Good,0
+2025-08-22T00:00:00,Lab D,Lab_D,Aug-25,No issues,,Good,0
+2025-08-29T00:00:00,Lab D,Lab_D,Aug-25,No issues,,Good,0
+2025-08-31T00:00:00,Lab D,Lab_D,Aug-25,No issues,,Good,0
+2025-09-01T00:00:00,Lab D,Lab_D,Sep-25,No issues,,Good,0
+2025-09-08T00:00:00,Lab D,Lab_D,Sep-25,No issues,,Good,0
+2025-09-15T00:00:00,Lab D,Lab_D,Sep-25,No issues,,Good,0
+2025-09-22T00:00:00,Lab D,Lab_D,Sep-25,No issues,,Good,0
+2025-09-29T00:00:00,Lab D,Lab_D,Sep-25,No issues,,Good,0
+2025-09-30T00:00:00,Lab D,Lab_D,Sep-25,No issues,,Good,0
+2025-10-01T00:00:00,Lab D,Lab_D,Oct-25,Electrical short circuit,Schedule repair,Good,0
+2025-10-08T00:00:00,Lab D,Lab_D,Oct-25,Electrical short circuit,Schedule repair,Good,0
+2025-10-15T00:00:00,Lab D,Lab_D,Oct-25,Electrical short circuit,Schedule repair,Good,0
+2025-10-22T00:00:00,Lab D,Lab_D,Oct-25,Electrical short circuit,Schedule repair,Good,0
+2025-10-29T00:00:00,Lab D,Lab_D,Oct-25,Electrical short circuit,Schedule repair,Good,1
+2025-10-31T00:00:00,Lab D,Lab_D,Oct-25,Electrical short circuit,Schedule repair,Good,0

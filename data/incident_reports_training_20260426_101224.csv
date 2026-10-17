@@ -1,0 +1,4 @@
+Month,Lab,Problem,Solution,asset_id,timestamp,will_fail_24h
+Apr-26,DemoLab,Demo fallback label 1,,DEMO_ASSET_1,2026-04-25T00:00:00,0
+Apr-26,DemoLab,Demo fallback label 2,,DEMO_ASSET_2,2026-04-24T00:00:00,0
+Apr-26,Lab B,Medium - test,,PC_01,2026-04-26T00:00:00,1
